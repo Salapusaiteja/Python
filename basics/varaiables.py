@@ -1,4 +1,4 @@
 name = "Salapusaiteja"
 age = 23
-print("Name:", name)
-print("Age:", age)
+print("Name:", name) #Salapusaiteja
+print("Age:", age) #23
